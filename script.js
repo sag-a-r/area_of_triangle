@@ -23,7 +23,7 @@ function areaOfTriangle(){
 
 //input field clear korar function
 function deleteMe(){
-    //document.getElementById("result").innerHTML = "Area of the Triangle";
+    document.getElementById("result").innerHTML = "Area of the Triangle";
     document.getElementById("arm_a").value = "";
     document.getElementById("arm_b").value = "";
     document.getElementById("arm_c").value = "";
